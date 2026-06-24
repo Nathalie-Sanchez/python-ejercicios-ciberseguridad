@@ -1,1 +1,1 @@
-# python-ejercicios-cibersegurida
+# python-ejercicios-ciberseguridad
